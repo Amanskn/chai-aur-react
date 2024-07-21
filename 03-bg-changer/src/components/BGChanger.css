@@ -1,0 +1,28 @@
+body{
+  background-color: pink;
+  /* border: 20px solid red; */
+}
+
+#temp{
+
+  background-color: rgb(162, 162, 139);
+  border: 6px solid green;
+  display: flex;
+  justify-content: space-around;
+  /* vertical-align: bottom; */
+  width: 80vw;
+  padding: 1rem;
+  position: absolute;
+    bottom: 0;
+    margin: auto;
+}
+.individual{
+  background-color: silver;
+  /* border: 2px solid black; */
+  /* height: 2rem; */
+  /* width: auto; */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 1rem;
+
+}
